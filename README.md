@@ -2,13 +2,11 @@
 
 Preconfigured `settings.json` for **VS Code + LaTeX Workshop** to make LaTeX projects compile reliably with:
 
-* ✅ Automatic `biber` support (`biblatex`)
-* ✅ Dedicated `build/` directory for auxiliary files
-* ✅ Clean PDF generation workflow
+* Automatic `biber` support (`biblatex`)
+* Dedicated `build/` directory for auxiliary files
+* Clean PDF generation workflow
 
 This repository exists primarily so I can sync my own LaTeX configuration across machines.
-
-> ⚠️ No guarantees this configuration will work for every system.
 
 ---
 
